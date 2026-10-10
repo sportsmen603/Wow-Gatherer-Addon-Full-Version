@@ -236,4 +236,4 @@ This repository serves as the official landing page for WoW Gatherer Addon. The 
 **Get the most recent version of WoW Gatherer Addon today!**
 
 ---
-**Last updated:** 2026-10-09 21:28:08 UTC
+**Last updated:** 2026-10-10 01:29:17 UTC
